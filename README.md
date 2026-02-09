@@ -1,4 +1,4 @@
-# Fuel Cell Monitoring PCB – ESP32-S3
+# Fuel Cell DAQ PCB – ESP32-S3
 
 
 This repository contains the hardware design of a **Fuel Cell Monitoring and Measurement Board** developed in KiCad.  
